@@ -1,0 +1,74 @@
+[
+  {
+      "id_section": 1,
+      "title": "Secrétariat",
+      "description": "Le secrétariat est un métier de bureau qui consiste à gérer et organiser les tâches administratives et de communication au sein de l'organisation. Il joue un rôle crucial dans le maintien de la fluidité des opérations et l'efficacité de la communication interne.",
+      "icon": "bi bi-person-fill"
+  },
+  {
+      "id_section": 2,
+      "title": "Budget – OPEX",
+      "description": "La section Budget – OPEX s'occupe de formaliser les besoins du service et de gérer les dépenses d'exploitation. Elle assure également la gestion des ressources financières pour garantir le bon fonctionnement des activités opérationnelles.",
+      "icon": "bi bi-cash-coin"
+  },
+  {
+      "id_section": 3,
+      "title": "Budget – CAPEX",
+      "description": "La section Budget – CAPEX est responsable du traitement et du suivi des dossiers d'investissement en capital. Elle veille à la planification et à l'allocation optimale des ressources pour les projets visant à améliorer l'infrastructure et les actifs de l'organisation.",
+      "icon": "bi bi-wallet"
+  },
+  {
+      "id_section": 4,
+      "title": "Bureau d’ordre",
+      "description": "Le Bureau d’ordre assure la réception, le tri et l'envoi du courrier interne et externe. Il joue un rôle essentiel dans la gestion documentaire et la circulation des informations au sein de l'organisation.",
+      "icon": "bi bi-inbox"
+  },
+  {
+      "id_section": 5,
+      "title": "Economat",
+      "description": "L'Economat gère les commandes d'articles nécessaires à l'organisation. Il assure également la saisie et le suivi des stocks. Son rôle est vital pour maintenir un approvisionnement efficace des fournitures et équipements nécessaires.",
+      "icon": "bi bi-cart"
+  },
+  {
+      "id_section": 6,
+      "title": "Contrôle de Matériel",
+      "description": "La section Contrôle de Matériel est chargée de la surveillance des équipements et des actifs de l'organisation. Elle garantit le bon état, la disponibilité et la maintenance des matériels essentiels aux opérations.",
+      "icon": "bi bi-tools"
+  },
+  {
+      "id_section": 7,
+      "title": "Section Animation Sportive",
+      "description": "La section Animation Sportive contribue à promouvoir un mode de vie sain et actif au sein de l'organisation. Elle organise des activités sportives et encourage la participation des membres pour renforcer l'esprit d'équipe et le bien-être.",
+      "icon": "bi bi-bicycle"
+  },
+  {
+      "id_section": 8,
+      "title": "Section Affaires Générales",
+      "description": "La section Affaires Générales est garante du bon fonctionnement administratif et organisationnel. Elle assure la coordination entre différentes entités, facilite les processus internes et veille à la conformité des activités avec les politiques et procédures.",
+      "icon": "bi bi-building"
+  },
+  {
+      "id_section": 9,
+      "title": "Section Logement",
+      "description": "La section Logement offre un soutien aux membres de l'organisation en matière de logement. Elle facilite l'accès à des solutions de logement adaptées et contribue au bien-être des membres en assurant un environnement de vie confortable.",
+      "icon": "bi bi-house-door"
+  },
+  {
+      "id_section": 10,
+      "title": "Section Réservation",
+      "description": "La section Réservation, gérée par Mr. AAMMAR, est en charge de coordonner et de gérer les réservations pour les événements et les activités de l'organisation. Elle garantit une planification efficace et une expérience optimale pour les participants.",
+      "icon": "bi bi-calendar-check"
+  },
+  {
+      "id_section": 11,
+      "title": "Section HSE",
+      "description": "La section HSE (Hygiène, Sécurité et Environnement) supervise les pratiques de sécurité et de santé au travail. Elle veille à la conformité aux normes de sécurité et à la préservation de l'environnement dans le cadre des activités de l'organisation.",
+      "icon": "bi bi-shield-check"
+  },
+  {
+      "id_section": 12,
+      "title": "Section Animation Culturelle",
+      "description": "La section Animation Culturelle favorise l'épanouissement culturel au sein de l'organisation. Elle organise des événements artistiques, des expositions et des performances pour enrichir la vie culturelle des membres et stimuler la créativité.",
+      "icon": "bi bi-music-note"
+  }
+]
